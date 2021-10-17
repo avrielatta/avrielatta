@@ -1,4 +1,4 @@
 - Hi
 - @avrielatta
-- JavaScript/ASM
+- JavaScript/6502ASM/Python/C
 - thanks.
